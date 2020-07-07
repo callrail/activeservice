@@ -11,3 +11,4 @@ bundler_stubs/
 /coverage
 .rspec
 .ruby-gemset
+/.bin
