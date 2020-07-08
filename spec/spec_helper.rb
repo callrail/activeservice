@@ -5,6 +5,8 @@ require 'rspec/its'
 require 'simplecov'
 require 'faraday_middleware'
 require 'active_service'
+require 'pry'
+require 'pry-byebug'
 
 SimpleCov.start
 
